@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalLab04ViewDemonstration</string>
+    <string name="textview">textview</string>
+    <string name="button">button</string>
+</resources>
